@@ -43,7 +43,7 @@ public class blah {
 
 
 
-
+    // NOT WORKING!
     private static void arrayRepeatedNumber() {
 
         int[] array = {1,2,3,5,3,};
